@@ -1,0 +1,3 @@
+cd C:\Users\Milkman\Documents\GitHub\Vaccine-Availability
+
+python check_vaccine.py
